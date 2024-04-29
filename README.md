@@ -22,13 +22,13 @@ Some of its key features:
 ### Leiningen
 
 ```clj
-[throttler "1.0.1"]
+[throttler "1.0.2"]
 ```
 
 ### Gradle
 
 ```scala
-compile "throttler:throttler:1.0.1"
+compile "throttler:throttler:1.0.2"
 ```
 
 ## Throttling functions
